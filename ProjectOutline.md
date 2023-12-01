@@ -15,5 +15,5 @@ My goal is to create a user-friendly, inclusive social networking app. I want it
 - Database: MongoDB (I think)
 
 #### My goal
-The goal of this project is to prove a safe, supportive and informative space for neurodivergent individuals and their loved ones to connect, learn and share experiences. Hopefully creating a community of people helping people.
+The goal of this project is to provide a safe, supportive and informative space for neurodivergent individuals and their loved ones to connect, learn and share experiences. Hopefully creating a community of people helping people.
 

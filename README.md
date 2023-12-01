@@ -6,7 +6,7 @@
 
 ## Technologies Used
 
-* miro
+* Miro
 * Markdown
 
 ## Description
@@ -35,4 +35,4 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 Email: (mailto:MonBoza@gmail.com)
 
 
-Copyright (c) November 3, 2023  Monica Barboza
+Copyright (c) December 1, 2023  Monica Barboza
